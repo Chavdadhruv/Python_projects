@@ -1,0 +1,4 @@
+virat kohali -> India -> Batsman -> 20000000
+Rohit shrama -> India -> Batsman -> 20000000
+Jasprit Bumarah -> India -> Bwoler -> 15000000
+Ravindra Jadeja -> India -> All-rounder -> 15000000
